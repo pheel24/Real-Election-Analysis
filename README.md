@@ -4,7 +4,7 @@
 The purpose of this audit is to determine many key metrics of a recent race in Colorado. Our goal is to come away from this analysis with a better idea of candidate performance and the respective voter engagment in various counties of interest. 
 
 ## Audit Results
-* 369,711
+* There were 369,711 votes cast in this congressional election.
 * Denver county had 306,055 votes, representing 82.8% of the total. Jefferson county had 38,855 votes, representing 10.5% of the total. Arapahoe county had 24,801 votes, representing 6.7% of the total.
 * Denver county had the largest number of votes, coming in at 306,055 votes. 
 * Stockham won 85,213 votes, representing 23% of the total. DeGette won 272,892 votes, representing 73.8% of the total. Lastly, Doane won 11,606 votes, representing 3.1% of the total. 
