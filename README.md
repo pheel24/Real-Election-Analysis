@@ -1,4 +1,4 @@
-## Election Audit
+### Election Audit
 
 # Audit Overview
 The purpose of this audit is to determine many key metrics of a recent race in Colorado. Our goal is to come away from this analysis with a better idea of candidate performance and the respective voter engagment in various counties of interest. 
